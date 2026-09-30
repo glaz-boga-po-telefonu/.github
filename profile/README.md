@@ -2,7 +2,7 @@
 
 По запросам «Глаз Бога по телефону», «Глаз Бога по номеру телефона» и «пробить номер» читатель обычно хочет понять два шага: как ввести телефон и что значит найденное совпадение. В этом разделе приведён безопасный формат запроса и способ проверить результат. Для объяснения не нужны чужие реальные номера.
 
-[![Открыть Глаз Бога бот в Telegram](https://img.shields.io/badge/Открыть_бота-в_Telegram-2AABEE?style=for-the-badge)](https://glazbogatg.org/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-po-telefonu&utm_content=profile&ref=github_glaz-boga-po-telefonu_profile)
+[![Открыть Глаз Бога бот в Telegram](https://img.shields.io/badge/Открыть_бота-в_Telegram-FFD21A?style=for-the-badge&labelColor=000000)](https://glazbogatg.org/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-po-telefonu&utm_content=profile&ref=github_glaz-boga-po-telefonu_profile)
 
 ## Начните с подробной инструкции
 
